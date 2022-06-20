@@ -1,0 +1,20 @@
+# İDE -VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extentsions.json
+
+# img
+*.jpg
+*.png
+images/
+
+# videos
+*.mp4
+
+# packages
+
+#log
+*.log
+
